@@ -1,0 +1,14 @@
+div.main {
+display: flex;
+justify-content: space-beetwen;
+flex-wrap: wrap;
+}
+
+.main .card {
+padding: 10px;
+margin: 10px;
+background-color: pink;
+box-shadow: 10px 10px 5px lightgray;
+
+
+}
